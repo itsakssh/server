@@ -1,0 +1,62 @@
+[
+    {
+        "projectId": 1,
+        "id": 1,
+        "title": "Backend Safe Notes",
+        "description": "Our application exposes API's that allow users to perform CRUD operations. Users can create, read, update, and delete data records effortlessly through these endpoints. Additionally, our application includes User Registration API's.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/backend.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/Note_Application_BE",
+        "demoLink": "null",
+        "color":"#0ba95b"
+    },
+    {
+        "projectId": 2,
+        "id": 2,
+        "title": "Note Create Web Application",
+        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
+        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "color":"#fc7428"
+    },
+    {
+        "projectId": 3,
+        "id": 3,
+        "title": "Note Create Web Application",
+        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
+        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "color":"#7b5ea7"
+    },
+    {
+        "projectId": 4,
+        "id": 4,
+        "title": "Note Create Web Application",
+        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
+        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "color":"#12b5e5"
+    },
+    {
+        "projectId": 5,
+        "id": 5,
+        "title": "Note Create Web Application",
+        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
+        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "color":"#f9f4da"
+    },
+    {
+        "projectId": 6,
+        "id": 6,
+        "title": "Note Create Web Application",
+        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
+        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "color":"#ed203d"
+    }
+]

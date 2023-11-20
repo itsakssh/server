@@ -3,7 +3,7 @@
         "projectId": 1,
         "id": 1,
         "title": "Backend Safe Notes",
-        "description": "Our application exposes API's that allow users to perform CRUD operations. Users can create, read, update, and delete data records effortlessly through these endpoints. Additionally, our application includes User Registration API's.",
+         "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
         "imgUrl": "https://codeguyakash.github.io/akash/image/backend.jpg",
         "sourceCodeLink": "https://github.com/codeguyakash/Note_Application_BE",
         "demoLink": "null",

@@ -22,41 +22,71 @@
     {
         "projectId": 3,
         "id": 3,
-        "title": "Note Create Web Application",
-        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "title": "Shoping Website",
+        "description": "I am developing a React-based web application that fetches and displays available products using APIs.",
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
-        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
-        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "sourceCodeLink": "https://github.com/codeguyakash/Shoping-Website",
+        "demoLink": "https://codeguyakash.github.io/Shoping-Website/",
         "color":"#7b5ea7"
     },
     {
         "projectId": 4,
         "id": 4,
-        "title": "Note Create Web Application",
-        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "title": "News Application",
+        "description": "I've developed a dynamic news web application using HTML, CSS, and JavaScript. It seamlessly integrates with a News API to provide real-time news updates. Users can stay informed with the latest headlines and articles in a user-friendly and responsive interface.",
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
-        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
-        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "sourceCodeLink": "https://github.com/codeguyakash/News-Application",
+        "demoLink": "https://codeguyakash.github.io/News-Application/",
         "color":"#12b5e5"
     },
     {
         "projectId": 5,
         "id": 5,
-        "title": "Note Create Web Application",
-        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "title": "Neumorpic Calculator",
+        "description": "Neumorphic Design Calculator by using (HTML, CSS and JavaScript).",
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
-        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
-        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "sourceCodeLink": "https://github.com/codeguyakash/Neumorpic-Calculator",
+        "demoLink": "https://codeguyakash.github.io/Neumorpic-Calculator/",
         "color":"#f9f4da"
     },
     {
         "projectId": 6,
         "id": 6,
-        "title": "Note Create Web Application",
-        "description": "This is Note Create Web applications and user can perform CRUD operation like Create, Read, Update and Delete Notes. which is created using ReactJS.",
+        "title": "Portfolio",
+        "description": "This is my First Portfolio with using HTML/CSS",
         "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
-        "sourceCodeLink": "https://github.com/codeguyakash/SafeNote",
-        "demoLink": "https://codeguyakash.github.io/SafeNote/",
+        "sourceCodeLink": "https://github.com/codeguyakash/akash",
+        "demoLink": "https://codeguyakash.github.io/akash/",
         "color":"#ed203d"
+    },
+    {
+        "projectId": 7,
+        "id": 7,
+        "title": "Don't Click 😁",
+        "description": "This is my First Portfolio with using HTML/CSS",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/HappyHacking",
+        "demoLink": "https://codeguyakash.github.io/HappyHacking/",
+        "color":"#0ba95b"
+    },
+    {
+        "projectId": 8,
+        "id": 8,
+        "title": "Random Password Generator",
+        "description": "Simple Random Password Generator with using HTML/CSS/JS",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/RandomPassword",
+        "demoLink": "https://codeguyakash.github.io/RandomPassword/",
+        "color":"#fc7428"
+    },
+    {
+        "projectId": 9,
+        "id": 9,
+        "title": "MDN Clone",
+        "description": "Simple MDN Page Clone with using HTML/CSS",
+        "imgUrl": "https://codeguyakash.github.io/akash/image/safenotes.jpg",
+        "sourceCodeLink": "https://github.com/codeguyakash/mdn",
+        "demoLink": "https://codeguyakash.github.io/mdn/",
+        "color":"#7b5ea7"
     }
 ]

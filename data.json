@@ -9,11 +9,11 @@
         "demoLink": "null",
         "color": "#0ba95b",
         "skills": [
-            "Node.js",
-            "Express.js",
-            "MongoDB",
-            "JWT",
-            "Bcrypt"
+            "Node.js ",
+            "Express.js ",
+            "MongoDB ",
+            "JWT ",
+            "Bcrypt "
         ]
     },
     {
@@ -26,11 +26,11 @@
         "demoLink": "https://codeguyakash.github.io/SafeNote/",
         "color": "#fc7428",
         "skills": [
-            "React.js",
-            "CSS",
-            "JavaScript",
-            "React-Router",
-            "Axios"
+            "React.js ",
+            "CSS ",
+            "JavaScript ",
+            "React-Router ",
+            "Axios "
         ]
     },
     {
@@ -43,10 +43,10 @@
         "demoLink": "https://codeguyakash.github.io/Shoping-Website/",
         "color": "#7b5ea7",
         "skills": [
-            "React.js",
-            "CSS",
-            "JavaScript",
-            "Axios"
+            "React.js ",
+            "CSS ",
+            "JavaScript ",
+            "Axios "
         ]
     },
     {
@@ -59,10 +59,10 @@
         "demoLink": "https://codeguyakash.github.io/News-Application/",
         "color": "#12b5e5",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "API's"
+            "HTML ",
+            "CSS ",
+            "JavaScript ",
+            "API's "
         ]
     },
     {
@@ -75,9 +75,9 @@
         "demoLink": "https://codeguyakash.github.io/Neumorpic-Calculator/",
         "color": "#f9f4da",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "HTML ",
+            "CSS ",
+            "JavaScript "
         ]
     },
     {
@@ -90,9 +90,9 @@
         "demoLink": "https://codeguyakash.github.io/akash/",
         "color": "#ed203d",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "HTML ",
+            "CSS ",
+            "JavaScript "
         ]
     },
     {
@@ -105,11 +105,11 @@
         "demoLink": "https://codeguyakash.github.io/HappyHacking/",
         "color": "#0ba95b",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Elasticemail",
-            "API's"
+            "HTML ",
+            "CSS ",
+            "JavaScript ",
+            "Elasticemail ",
+            "API's "
         ]
     },
     {
@@ -132,9 +132,9 @@
         "demoLink": "https://codeguyakash.github.io/mdn/",
         "color": "#7b5ea7",
         "skills": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "HTML ",
+            "CSS ",
+            "JavaScript "
         ]
     }
 ]

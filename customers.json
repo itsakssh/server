@@ -1,122 +1,62 @@
 [
     {
         "id": "6AabaXna2K3eJLtU4k2yeq",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/6AabaXna2K3eJLtU4k2yeq/9b9e2e7bf029f2cc8047a5b27cac1208/curology.png",
-        "height": 60,
-        "width": 232,
-        "assetType": "image",
-        "altText": "Curology logo"
+        "src": "https://images.ctfassets.net/spoqsaf9291f/6AabaXna2K3eJLtU4k2yeq/9b9e2e7bf029f2cc8047a5b27cac1208/curology.png"
     },
     {
-        "id": "6S40IUVrdki2SlPXQMHKKr",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/6S40IUVrdki2SlPXQMHKKr/e02c776d183f70c84fa53e077a0f7b1a/pixar.png",
-        "height": 60,
-        "width": 287,
-        "assetType": "image",
-        "altText": ""
+        "id": "6S40IsUVrdki2SlPXQMHKKr",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/6S40IUVrdki2SlPXQMHKKr/e02c776d183f70c84fa53e077a0f7b1a/pixar.png"
     },
     {
-        "id": "248lpDOefbem7N1Q6QU9zn",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/248lpDOefbem7N1Q6QU9zn/ab900c553ee4e237a5901d799aa465ca/mixpanel.png",
-        "height": 60,
-        "width": 174,
-        "assetType": "image",
-        "altText": ""
+        "id": "248lpsDOefbem7N1Q6QU9zn",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/248lpDOefbem7N1Q6QU9zn/ab900c553ee4e237a5901d799aa465ca/mixpanel.png"
     },
     {
-        "id": "3TMfZQ9Sx2ZRW7kWAS9nDa",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/3TMfZQ9Sx2ZRW7kWAS9nDa/cc89ba33f488f72d468764f16ef5c71d/typeform.png",
-        "height": 60,
-        "width": 268,
-        "assetType": "image",
-        "altText": "Typeform logo"
+        "id": "3TMfZQ9Sx2ZRWsa7kWAS9nDa",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/3TMfZQ9Sx2ZRW7kWAS9nDa/cc89ba33f488f72d468764f16ef5c71d/typeform.png"
     },
     {
-        "id": "2yHDt7AcvI814niwObtUhi",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/2yHDt7AcvI814niwObtUhi/1d82fbd2ec94464cd26c6d88fa948d82/blog-logo-3_1.png",
-        "height": 60,
-        "width": 290,
-        "assetType": "image",
-        "altText": ""
+        "id": "2yHDt7AcvI814niwObsdtUhi",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/2yHDt7AcvI814niwObtUhi/1d82fbd2ec94464cd26c6d88fa948d82/blog-logo-3_1.png"
     },
     {
-        "id": "2Z03v7BH2brwtBG2qdA5dp",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/2Z03v7BH2brwtBG2qdA5dp/d6cd228d2f7b6048edcec9f4d5bcce3c/match.png",
-        "height": 60,
-        "width": 386,
-        "assetType": "image",
-        "altText": ""
+        "id": "2Z03v7BH2bdsrwtBG2qdA5dp",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/2Z03v7BH2brwtBG2qdA5dp/d6cd228d2f7b6048edcec9f4d5bcce3c/match.png"
     },
     {
-        "id": "xDZNk5XtOxMEiqsiJ6paq",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/xDZNk5XtOxMEiqsiJ6paq/c9958ceead0fb85872449d26186d62b1/headspace__1_.png",
-        "height": 60,
-        "width": 270,
-        "assetType": "image",
-        "altText": ""
+        "id": "xDZNk5XtOxMEiqsisdJ6paq",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/xDZNk5XtOxMEiqsiJ6paq/c9958ceead0fb85872449d26186d62b1/headspace__1_.png"
     },
     {
         "id": "5XG3oCJz5XCLKfPPrk3N5w",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/5XG3oCJz5XCLKfPPrk3N5w/b55f3cabea3d372468520cf181cef970/suntory.png",
-        "height": 68,
-        "width": 213,
-        "assetType": "image",
-        "altText": "Suntory Beverage & Food logo"
+        "src": "https://images.ctfassets.net/spoqsaf9291f/5XG3oCJz5XCLKfPPrk3N5w/b55f3cabea3d372468520cf181cef970/suntory.png"
     },
     {
         "id": "1oGakTMMC1P6f0hfkXO7fV",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/1oGakTMMC1P6f0hfkXO7fV/9fabc635435ffc82fcdea02920cb242e/download_1.png",
-        "height": 60,
-        "width": 256,
-        "assetType": "image",
-        "altText": ""
+        "src": "https://images.ctfassets.net/spoqsaf9291f/1oGakTMMC1P6f0hfkXO7fV/9fabc635435ffc82fcdea02920cb242e/download_1.png"
     },
     {
         "id": "502ApiNcRHgIwrDU8XRYTQ",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/502ApiNcRHgIwrDU8XRYTQ/c70d8752079a40241d08ec85dac5f93d/figma-logo.png",
-        "height": 60,
-        "width": 182,
-        "assetType": "image",
-        "altText": ""
+        "src": "https://images.ctfassets.net/spoqsaf9291f/502ApiNcRHgIwrDU8XRYTQ/c70d8752079a40241d08ec85dac5f93d/figma-logo.png"
     },
     {
         "id": "2yyiwwOcF2juLDKm7vpbwx",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/2yyiwwOcF2juLDKm7vpbwx/2dc472fc6bcb18dcc7358ec46cdb8e12/branch-logo-color-dark_1.png",
-        "height": 60,
-        "width": 159,
-        "assetType": "image",
-        "altText": ""
+        "src": "https://images.ctfassets.net/spoqsaf9291f/2yyiwwOcF2juLDKm7vpbwx/2dc472fc6bcb18dcc7358ec46cdb8e12/branch-logo-color-dark_1.png"
     },
     {
-        "id": "4xQmlvd2irMIrahin29v50",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/4xQmlvd2irMIrahin29v50/01b4fbc84222355b28bf410d81ec3726/blinkist-logo.png",
-        "height": 60,
-        "width": 246,
-        "assetType": "image",
-        "altText": ""
+        "id": "4xQmlvd2irMIrahin29dv50",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/4xQmlvd2irMIrahin29v50/01b4fbc84222355b28bf410d81ec3726/blinkist-logo.png"
     },
     {
-        "id": "Vdi08Ftr3TPBKqkKWtVsv",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/Vdi08Ftr3TPBKqkKWtVsv/ff3b5494aa1b3e7dfd37cc03ef085453/mux.png",
-        "height": 60,
-        "width": 188,
-        "assetType": "image",
-        "altText": ""
+        "id": "Vdi08Ftr3TPBKqkKhWtVsv",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/Vdi08Ftr3TPBKqkKWtVsv/ff3b5494aa1b3e7dfd37cc03ef085453/mux.png"
     },
     {
-        "id": "2nQSBAKP1EbkLsnE35AI4H",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/2nQSBAKP1EbkLsnE35AI4H/1108e8b62f1944c8e9c2439e2f5e9083/loom_logo_lockup_color.png",
-        "height": 95,
-        "width": 314,
-        "assetType": "image",
-        "altText": ""
+        "id": "2nQSBAKP1EbkLhsnE35AI4H",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/2nQSBAKP1EbkLsnE35AI4H/1108e8b62f1944c8e9c2439e2f5e9083/loom_logo_lockup_color.png"
     },
     {
-        "id": "6hiic5jxl3mItKq5SbXp0q",
-        "src": "https://images.ctfassets.net/spoqsaf9291f/6hiic5jxl3mItKq5SbXp0q/0ee8dab935a5e3b5d424b51bc44ce21f/buffer.png",
-        "height": 60,
-        "width": 244,
-        "assetType": "image",
-        "altText": ""
+        "id": "6hiic5jxl3mhItKq5SbXp0q",
+        "src": "https://images.ctfassets.net/spoqsaf9291f/6hiic5jxl3mItKq5SbXp0q/0ee8dab935a5e3b5d424b51bc44ce21f/buffer.png"
     }
 ]

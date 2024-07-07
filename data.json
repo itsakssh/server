@@ -39,7 +39,7 @@
         "projectId": 3,
         "id": 3,
         "title": "Notion Landing Page",
-        "description": "A clone of Notion's landing page created as part of an assignment. This project showcases a responsive design and clean layout using Node.js, Express.js, and MongoDB for the backend, and HTML and CSS for the frontend. It demonstrates the ability to replicate modern web design elements.",
+        "description": "A clone of Notion's landing page created as part of an assignment. This project showcases a responsive design and clean layout Reactjs and CSS.",
         "imgUrl": "",
         "sourceCodeLink": "https://github.com/codeguyakash/HireQuotient-Assignment",
         "demoLink": "https://codeguyakash-notion-clone.vercel.app/",

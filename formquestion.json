@@ -1,0 +1,629 @@
+[{
+        "status": 200,
+        "data": [
+            {
+                "category_id": "1",
+                "category_text": "RECEPTION AND CUSTOMER CARE",
+                "questions": [
+                    {
+                        "id": "51",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "1",
+                        "question_en": "All service staff (doctors, nurses, receptionists, cashiers, technicians, cleaners, security guards, etc.) are cheerful, friendly, neatly dressed in uniform, and exhibit a professional demeanor.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "52",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "1",
+                        "question_en": "You are greeted and welcomed both upon arrival and departure from the clinic, and supported with an umbrella when it's sunny or rainy.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "53",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "1",
+                        "question_en": "While waiting, you are regularly checked on, guided, explained the examination process, and offered instant drinks (tea, coffee…)",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "54",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "1",
+                        "question_en": "If you are undergoing a general check-up or gastro. endoscopy, you are served a light snack and beverage.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "55",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "1",
+                        "question_en": "Your requests are promptly and adequately addressed.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": "2",
+                "category_text": "ADMINISTRATIVE PROCEDURES AND PATIENT RECORDS",
+                "questions": [
+                    {
+                        "id": "56",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "2",
+                        "question_en": "You are clearly explained the forms and procedures for medical records, insurance claims, and direct billing claim documents.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "57",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "2",
+                        "question_en": "You are informed and clearly explained the service costs BEFORE payment and medical services performed.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "58",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "2",
+                        "question_en": "At the cashier counter: You are informed and clearly explained the service costs and customer benefits or your discount/ promotion policy BEFORE payment.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "59",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "2",
+                        "question_en": "If you requested for insurance direct billing, the procedures for insurance registration, documents, deposit, refund, guarantee limits, and completion time are clearly explained to you.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "60",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "2",
+                        "question_en": "You are guided to use the VIC CARE application to connect with the Patient Web Portal to manage medical records to manage health information and patient documents of yourself and your family members, direct-connect your doctor by online SMS, and live chat with our customer care associate for post-service assistance.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": "3",
+                "category_text": "NURSING CARE",
+                "questions": [
+                    {
+                        "id": "61",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "Nurses are neatly and cleanly dressed in uniform, greet patients friendly, and introduce themselves before performing any nursing tasks.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "62",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "Your personal identification information (name, date of birth) is verified by the nurse before performing any nursing procedures.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "63",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "Nurses always sanitize their hands (or wear new gloves) before touching and caring for patients.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "64",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "Nurses inform you of the assigned services and the steps to be taken, always starting the procedure with your agreement.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "65",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "Your health indicators and vital signs: blood pressure, pulse, height, weight, etc., are fully checked and informed by the nurse.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "66",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "If you use services for children, you are always informed of the weight, height, head circumference, SPO2, and compared with previous examination indices (if available).",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "67",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "If you are receiving vaccinations or prescribed injections, the nurse verifies the vaccine/medicine name and expiration date, and double-checks the labels before performing the injection procedure.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "68",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "3",
+                        "question_en": "You are requested and guided to wait for monitoring after vaccination. The nurse checks your condition at least once during the post-vaccination waiting period.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": "4",
+                "category_text": "DOCTOR'S EXAMINATION",
+                "questions": [
+                    {
+                        "id": "69",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "The doctor is polite, greets you friendly, and invites you into the examination room.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "70",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "The examination room has curtains drawn and doors closed when receiving patients, the doctor communicates gently and politely, carefully inquires about your health information and medical history, and speaks at an appropriate volume to ensure patient privacy.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "71",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "The doctor conducts a thorough examination and fully answers all your health-related questions.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "72",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "The doctor informs you of the upcoming examination steps, always waits for you to be ready, and only begins the procedure with your agreement.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "73",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "The doctor clearly explains medical indications and recommendations, helping you estimate and plan treatment costs (if any).",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "74",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "All your health-related questions are fully answered before you leave the doctor examination room.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "75",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "4",
+                        "question_en": "You are willing to recommend Victoria Healthcare's services to friends and family.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": "5",
+                "category_text": "HOME LABORATORY SAMPLE COLLECTION SERVICE",
+                "questions": [
+                    {
+                        "id": "76",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "If you use the home sample collection service through our partner, please select \"YES\" to share your experience with this service; otherwise, select \"NO\" to skip this question.",
+                        "question_vn": "",
+                        "question_type": "select",
+                        "options": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    {
+                        "id": "77",
+                        "question_parent_id": "76",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "The staff arrives on time for the appointment.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "78",
+                        "question_parent_id": "76",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "The staff is cheerful, friendly, neatly dressed in uniform, professional, and introduces themselves before performing tasks.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "79",
+                        "question_parent_id": "76",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "The staff verifies the personal information of the customer (name, date of birth) before collecting the sample.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "80",
+                        "question_parent_id": "76",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "The staff informs the customer of the assigned items and the steps to be taken, always starts with the customer's agreement.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "81",
+                        "question_parent_id": "76",
+                        "form_id": "2",
+                        "category_id": "5",
+                        "question_en": "The staff sanitizes hands (and/or wears new gloves) before collecting the sample.",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": "7",
+                "category_text": "VIC CARE MOBILE APP",
+                "questions": [
+                    {
+                        "id": "82",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "7",
+                        "question_en": "If you are using the VIC CARE app on your smartphone or through the online portal at http://viccare.victoriavn.com, please select \"YES\" to share your experience with VIC CARE; otherwise, select \"NO\" to skip this question.",
+                        "question_vn": "",
+                        "question_type": "select",
+                        "options": [
+                            "Yes",
+                            "No"
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "question_parent_id": "82",
+                        "form_id": "2",
+                        "category_id": "7",
+                        "question_en": "Does VIC CARE meet the essential features you need?",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "question_parent_id": "82",
+                        "form_id": "2",
+                        "category_id": "7",
+                        "question_en": "Is it easy for you to operate and use the features on the VIC CARE app?",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Other comments or not experienced"
+                        ]
+                    },
+                    {
+                        "id": "85",
+                        "question_parent_id": "82",
+                        "form_id": "2",
+                        "category_id": "7",
+                        "question_en": "Overall rating of the current features on the VIC CARE app from 1 to 5 stars (1* is Very Poor, 2* Poor, 3* Average, 4* Good, 5* Very Good)",
+                        "question_vn": "",
+                        "question_type": "multiple_choice",
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    },
+                    {
+                        "id": "86",
+                        "question_parent_id": "82",
+                        "form_id": "2",
+                        "category_id": "7",
+                        "question_en": "What issues or features need improvement on the VIC CARE app? Please provide any additional comments you may have.",
+                        "question_vn": "",
+                        "question_type": "textarea",
+                        "options": []
+                    }
+                ]
+            },
+            {
+                "category_id": "9",
+                "category_text": "APPRECIATION GIFT INFORMATION",
+                "questions": [
+                    {
+                        "id": "87",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Patient number",
+                        "question_vn": "",
+                        "question_type": "text",
+                        "options": []
+                    },
+                    {
+                        "id": "88",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Company code (If for corporate health check)",
+                        "question_vn": "",
+                        "question_type": "text",
+                        "options": []
+                    },
+                    {
+                        "id": "89",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Clinic branch you reviewed",
+                        "question_vn": "",
+                        "question_type": "select",
+                        "options": [
+                            "37-39 Luong Dinh Cua, An Khanh Ward, Thu Duc City",
+                            "20-20Bis-22 Dinh Tien Hoang, Da Kao Ward, District 1",
+                            "135A Nguyen Van Troi, Ward 11, Phu Nhuan District",
+                            "1056 Nguyen Van Linh, Sky Garden 1, Phu My Hung, District 7"
+                        ]
+                    },
+                    {
+                        "id": "90",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Full name",
+                        "question_vn": "",
+                        "question_type": "text",
+                        "options": []
+                    },
+                    {
+                        "id": "91",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Email address",
+                        "question_vn": "",
+                        "question_type": "text",
+                        "options": []
+                    },
+                    {
+                        "id": "92",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "9",
+                        "question_en": "Phone number",
+                        "question_vn": "",
+                        "question_type": "text",
+                        "options": []
+                    }
+                ]
+            },
+            {
+                "category_id": "10",
+                "category_text": "WHAT CAN WE DO TO BETTER CARE FOR YOU?",
+                "questions": [
+                    {
+                        "id": "93",
+                        "question_parent_id": "0",
+                        "form_id": "2",
+                        "category_id": "10",
+                        "question_en": "We greatly appreciate any additional comments or suggestions you may have to help us improve the quality of our services.",
+                        "question_vn": "",
+                        "question_type": "textarea",
+                        "options": []
+                    }
+                ]
+            }
+        ],
+        "completed": 0
+    }]

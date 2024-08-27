@@ -1,0 +1,929 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "category_id": "1",
+            "category_name_en": "RECEPTION AND CUSTOMER CARE",
+            "category_name_vn": "TIẾP ĐÓN, CHĂM SÓC KHÁCH HÀNG",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "104",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "1",
+                    "question_en": "All service staff (doctors, nurses, receptionists, cashiers, technicians, cleaners, security guards, etc.) are cheerful, friendly, neatly dressed in uniform, and exhibit a professional demeanor.",
+                    "question_vn": "Tất cả ekip phục vụ (Bác sĩ, Điều dưỡng, Lễ Tân, Thu ngân, Kỹ thuật viên, nhân viên vệ sinh, Bảo vệ...) đều vui vẻ, thân thiện, trang phục, đồng phục chỉnh tề, tác phong chuyên nghiệp",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "105",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "1",
+                    "question_en": "You are greeted and welcomed both upon arrival and departure from the clinic, and supported with an umbrella when it's sunny or rainy.",
+                    "question_vn": "Khi bạn đến và rời khỏi phòng khám đều được tiếp đón, chào hỏi, được che dù (khi nắng/mưa)",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "106",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "1",
+                    "question_en": "While waiting, you are regularly checked on, guided, explained the examination process, and offered instant drinks (tea, coffee…)",
+                    "question_vn": "Trong thời gian chờ đợi, bạn thường xuyên được hỏi thăm, hướng dẫn, giải thích lộ trình thăm khám, phục vụ trà/cà phê…",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "107",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "1",
+                    "question_en": "If you are undergoing a general check-up or gastro. endoscopy, you are served a light snack and beverage.",
+                    "question_vn": "Nếu khám tổng quát hoặc nội soi tiêu hoá, bạn được phục vụ một phần ăn nhẹ và nước uống.",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "108",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "1",
+                    "question_en": "Your requests are promptly and adequately addressed.",
+                    "question_vn": "Các yêu cầu của bạn đều được lưu tâm và đáp ứng đầy đủ, kịp thời",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "2",
+            "category_name_en": "ADMINISTRATIVE PROCEDURES AND PATIENT RECORDS",
+            "category_name_vn": "THỦ TỤC HÀNH CHÍNH, HỒ SƠ BỆNH NHÂN",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "109",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "2",
+                    "question_en": "You are clearly explained the forms and procedures for medical records, insurance claims, and direct billing claim documents.",
+                    "question_vn": "Bạn được giải thích rõ ràng các biểu mẫu giấy tờ, hướng dẫn sử dụng thủ tục làm hồ sơ khám bệnh, hồ sơ thanh toán bảo hiểm, bảo lãnh viện phí…",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "110",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "2",
+                    "question_en": "You are informed and clearly explained the service costs BEFORE payment and medical services performed.",
+                    "question_vn": "Bạn được thông báo, giải thích rõ ràng các chi phí dịch vụ TRƯỚC KHI thanh toán và thực hiện dịch vụ y tế.",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "111",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "2",
+                    "question_en": "At the cashier counter: You are informed and clearly explained the service costs and customer benefits or your discount/ promotion policy BEFORE payment.",
+                    "question_vn": "Tại quầy thu ngân: Bạn được thông báo, giải thích chi tiết các hạng mục chi phí dịch vụ, chương trình ưu đãi/ quyền lợi khách hàng TRƯỚC KHI thanh toán chi phí.",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "112",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "2",
+                    "question_en": "If you requested for insurance direct billing, the procedures for insurance registration, documents, deposit, refund, guarantee limits, and completion time are clearly explained to you.",
+                    "question_vn": "Nếu sử dụng bảo hiểm hoặc dịch vụ bảo lãnh viện phí, bạn được giải thích rõ ràng về thủ tục thực hiện hồ sơ bảo hiểm, bao gồm thủ tục đăng ký, chứng từ bảo hiểm, phí đặt cọc, hoàn cọc, hạn mức bảo lãnh, thời gian hoàn tất hồ sơ....",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "113",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "2",
+                    "question_en": "You are guided to use the VIC CARE application to connect with the Patient Web Portal to manage medical records to manage health information and patient documents of yourself and your family members, direct-connect your doctor by online SMS, and live chat with our customer care associate for post-service assistance.",
+                    "question_vn": "Bạn được hướng dẫn sử dụng ứng dụng VIC CARE để liên kết với cổng bệnh án điện tử để quản lý thông tin hồ sơ khám bệnh cho bản thân và người nhà, liên hệ trao đổi với bác sĩ và kết nối với nhân viên CSKH của phòng khám để yêu cầu hỗ trợ sau thăm khám.",
+                    "question_type": "multiple_choice",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "3",
+            "category_name_en": "NURSING CARE",
+            "category_name_vn": "CHĂM SÓC ĐIỀU DƯỠNG",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "114",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "Nurses are neatly and cleanly dressed in uniform, greet patients friendly, and introduce themselves before performing any nursing tasks.",
+                    "question_vn": "Điều dưỡng mặc đồng phục chỉnh tề, sạch sẽ, chào hỏi thân thiện, giới thiệu tên với bệnh nhân trước khi thực hiện các công việc chăm sóc điều dưỡng",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "115",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "Your personal identification information (name, date of birth) is verified by the nurse before performing any nursing procedures.",
+                    "question_vn": "Bạn được Điều dưỡng xác nhận thông tin cá nhân (họ tên, ngày tháng năm sinh) trước khi thực hiện bất cứ thao tác kỹ thuật nào.",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "116",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "Nurses always sanitize their hands (or wear new gloves) before touching and caring for patients.",
+                    "question_vn": "Điều dưỡng luôn rửa tay sát khuẩn (hoặc đeo găng tay mới) trước khi tiếp xúc và chăm sóc bệnh nhân",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "117",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "Nurses inform you of the assigned services and the steps to be taken, always starting the procedure with your agreement.",
+                    "question_vn": "Bạn được Điều dưỡng thông báo các hạng mục dịch vụ được chỉ định và các bước thao tác sắp thực hiện, luôn bắt đầu thao tác khi được bạn cho phép.",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "118",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "Your health indicators and vital signs: blood pressure, pulse, height, weight, etc., are fully checked and informed by the nurse.",
+                    "question_vn": "Bạn được điều dưỡng kiểm tra và thông báo đầy đủ các chỉ số sức khoẻ và dấu sinh hiệu: huyết áp, mạch, chiều cao, cân nặng,...",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "119",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "If you use services for children, you are always informed of the weight, height, head circumference, SPO2, and compared with previous examination indices (if available).",
+                    "question_vn": "Nếu bạn sử dụng dịch vụ cho trẻ em, bạn luôn được thông báo các chỉ số cân nặng, chiều cao, vòng đầu, SPO2, so sánh với chỉ số ở lần khám trước (nếu có)",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "120",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "If you are receiving vaccinations or prescribed injections, the nurse verifies the vaccine/medicine name and expiration date, and double-checks the labels before performing the injection procedure.",
+                    "question_vn": "Nếu bạn tiêm ngừa, chích thuốc theo toa, bạn được điều dưỡng đối chiếu xác nhận tên vaccine/ tên thuốc và hạn sử dụng, đồng kiểm tra tem, nhãn thuốc trước khi thực hiện tiêm/ chích.",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "121",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "3",
+                    "question_en": "You are requested and guided to wait for monitoring after vaccination. The nurse checks your condition at least once during the post-vaccination waiting period.",
+                    "question_vn": "Bạn được hướng dẫn chờ theo dõi sau khi tiêm chủng. Điều dưỡng kiểm tra, hỏi thăm ít nhất 1 lần trong thời gian chờ sau tiêm vaccine.",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "4",
+            "category_name_en": "DOCTOR'S EXAMINATION",
+            "category_name_vn": "THĂM KHÁM BÁC SĨ",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "122",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "The doctor is polite, greets you friendly, and invites you into the examination room.",
+                    "question_vn": "Bác sĩ lịch sự, chào hỏi thân thiện, mời bệnh nhân vào phòng khám",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "123",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "The examination room has curtains drawn and doors closed when receiving patients, the doctor communicates gently and politely, carefully inquires about your health information and medical history, and speaks at an appropriate volume to ensure patient privacy.",
+                    "question_vn": "Phòng khám bệnh được kéo rèm, đóng cửa khi tiếp bệnh nhân, bác sĩ trao đổi nhẹ nhàng, lịch sự, hỏi thăm chu đáo, kỹ lưỡng thông tin sức khoẻ và bệnh sử của bạn, giọng nói vừa nghe để bảo đảm sự riêng tư cho bệnh nhân",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "124",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "The doctor conducts a thorough examination and fully answers all your health-related questions",
+                    "question_vn": "Bạn được bác sĩ thăm khám kỹ lưỡng, giải đáp chi tiết đầy đủ các câu hỏi, thắc mắc về sức khỏe của bệnh nhân",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "125",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "The doctor informs you of the upcoming examination steps, always waits for you to be ready, and only begins the procedure with your agreement.",
+                    "question_vn": "Bác sĩ thông báo với bạn các bước khám bệnh sắp thực hiện, luôn chờ bạn sẵn sàng và chỉ bắt đầu thao tác khi được bạn cho phép",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "126",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "The doctor clearly explains medical indications and recommendations, helping you estimate and plan treatment costs (if any).",
+                    "question_vn": "Bác sĩ giải thích rõ về các chỉ định y khoa và khuyến nghị đối với bệnh nhân, giúp bạn ước tính, dự trù chi phí kế hoạch điều trị (nếu có)",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "127",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "All your health-related questions are fully answered before you leave the doctor examination room.",
+                    "question_vn": "Bạn được giải đáp toàn bộ các thắc mắc về sức khỏe trước khi rời khỏi phòng khám của bác sĩ",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "128",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "4",
+                    "question_en": "You are willing to recommend Victoria Healthcare's services to friends and family.",
+                    "question_vn": "Bạn sẵn sàng giới thiệu bạn bè, người thân sử dụng dịch vụ của Victoria Healthcare",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "5",
+            "category_name_en": "HOME LABORATORY SAMPLE COLLECTION SERVICE",
+            "category_name_vn": "DỊCH VỤ LẤY MẪU XÉT NGHIỆM TẠI NHÀ",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "139",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "If you use the home sample collection service through our partner, please select 'YES' to share your experience with this service; otherwise, select 'NO' to skip this question.",
+                    "question_vn": "Nếu bạn sử dụng dịch vụ lấy mẫu xét nghiệm tại nhà thông qua đối tác của chúng tôi, vui lòng chọn 'CÓ' để chia sẻ với chúng tôi trải nghiệm của bạn về dịch vụ này, ngược lại chọn 'KHÔNG' để bỏ qua câu hỏi này.",
+                    "question_type": "select",
+                    "options": [
+                        "Yes",
+                        "No"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "140",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "The staff arrives on time for the appointment.",
+                    "question_vn": "Nhân viên lấy mẫu đến đúng lịch hẹn",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "141",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "The staff is cheerful, friendly, neatly dressed in uniform, professional, and introduces themselves before performing tasks.",
+                    "question_vn": "Nhân viên lấy mẫu có thái độ vui vẻ, thân thiện, trang phục/ đồng phục chỉnh tề, tác phong chuyên nghiệp và giới thiệu tên trước khi thực hiện các công việc",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "142",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "The staff verifies the personal information of the customer (name, date of birth) before collecting the sample.",
+                    "question_vn": "Nhân viên lấy mẫu xác nhận thông tin cá nhân của (bệnh nhân) khách hàng (họ tên, ngày tháng năm sinh) trước khi thực hiện lấy mẫu",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "143",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "The staff informs the customer of the assigned items and the steps to be taken, always starts with the customer's agreement.",
+                    "question_vn": "Nhân viên thông báo với (bệnh nhân) khách hàng các hạng mục được chỉ định và các bước thao tác sắp thực hiện, luôn được sự cho phép của (bệnh nhân) KH trước khi bắt đầu",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "144",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "5",
+                    "question_en": "The staff sanitizes hands (and/or wears new gloves) before collecting the sample.",
+                    "question_vn": "Nhân viên sát khuẩn tay (và) hoặc đeo găng tay mới trước khi lấy (máu) mẫu",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "6",
+            "category_name_en": "VIC CARE MOBILE APP",
+            "category_name_vn": "TIỆN ÍCH ỨNG DỤNG VIC CARE",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "145",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "6",
+                    "question_en": "If you are using the VIC CARE app on your smartphone or through the online portal at http://viccare.victoriavn.com, please select 'YES' to share your experience with VIC CARE; otherwise, select 'NO' to skip this question.",
+                    "question_vn": "Nếu bạn đang sử dụng ứng dụng VIC CARE bằng điện thoại thông minh hoặc qua cổng trực tuyến tại: http://viccare.victoriavn.com , vui lòng chọn 'CÓ' để chia sẻ với chúng tôi trải nghiệm của bạn về tiện ích này, ngược lại chọn 'KHÔNG' để bỏ qua câu hỏi này.",
+                    "question_type": "select",
+                    "options": [
+                        "Yes",
+                        "No"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "146",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "6",
+                    "question_en": "Does VIC CARE meet the essential features you need?",
+                    "question_vn": "VIC CARE có đáp ứng những tính năng tiện ích mà bạn cần không?",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "147",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "6",
+                    "question_en": "Is it easy for you to operate and use the features on the VIC CARE app?",
+                    "question_vn": "Bạn có dễ dàng thao tác và sử dụng các tính năng trên ứng dụng VIC CARE không?",
+                    "question_type": "radio",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Other comments or not experienced"
+                    ],
+                    "options_vn": [
+                        "Có",
+                        "Không",
+                        "Ý kiến khác hoặc chưa được trải nghiệm"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "148",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "6",
+                    "question_en": "Overall rating of the current features on the VIC CARE app from 1 to 5 stars (1* is Very Poor, 2* Poor, 3* Average, 4* Good, 5* Very Good)",
+                    "question_vn": "Đánh giá tổng thể của bạn về các tiện ích hiện tại trên ứng dụng VIC CARE từ 1 đến 5 sao (1* là Rất kém, 2* Kém, 3* Tạm ổn, 4* Tốt, 5* Rất tốt)",
+                    "question_type": "rating",
+                    "options": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "options_vn": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "149",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "6",
+                    "question_en": "What issues or features need improvement on the VIC CARE app? Please provide any additional comments you may have.",
+                    "question_vn": "Chúng tôi cần cải thiện vấn đề, tính năng nào trên ứng dụng VIC CARE? Vui lòng cho chúng tôi thêm ý kiến khác của bạn (nếu có).",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        },
+        {
+            "category_id": "7",
+            "category_name_en": "WHAT CAN WE DO TO BETTER CARE FOR YOU?",
+            "category_name_vn": "CHÚNG TÔI CẦN LÀM GÌ ĐỂ CHĂM SÓC BẠN TỐT HƠN?",
+            "category_head_en": null,
+            "category_head_vn": null,
+            "questions": [
+                {
+                    "id": "150",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "7",
+                    "question_en": "What can we do to better care for you? We greatly appreciate any additional comments or suggestions you may have to help us improve the quality of our services.",
+                    "question_vn": "Chúng tôi cần làm gì để chăm sóc bạn tốt hơn? Chúng tôi vô cùng trân quý nếu bạn có thể chia sẻ thêm ý kiến khác hoặc có những góp ý giúp chúng tôi hoàn thiện hơn chất lượng dịch vụ của mình.",
+                    "question_type": "html",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": "<p>We are very grateful for the valuable time you have taken to complete this survey. Victoria Healthcare would like to offer you a token of appreciation for your contribution to our service.\r\n</p>\r\n<p>You will receive a thank-you gift of your choice at the clinic AND choose one of the following incentives for your next visit:\r\n</p>\r\n<ul>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">VND 300,000 off the doctor's consultation fee (For Pediatrics, only a 10% discount on the total service bill applies)</span>\r\n</p>\r\n</li>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">Or 10% off the total service bill</span>\r\n</p>\r\n</li>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">Or 20% off the cost of services and 10% off procedural costs included in the General check-up package</span>\r\n</p>\r\n</li>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">Or 20% off diagnostic imaging services (Ultrasound/X-ray/Bone density measurement/Mammography/CT scan) if incurred with the doctor's consultation fee</span>\r\n</p>\r\n</li>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">Or 20% off family planning services for women, applicable to contraceptive methods: IUD insertion/removal, implant insertion/removal, etc.</span>\r\n</p>\r\n</li>\r\n<li>\r\n<p><span style=\"color: #ff0000;\">Or 25% off the total bill for skin care services (Applies to the listed prices of all Dermatological treatment services – rejuvenation care regimen, skin massage, etc.)</span>\r\n</p>\r\n</li>\r\n</ul>\r\n<p><strong>Conditions of application:</strong>\r\n</p>\r\n<ul>\r\n<li>\r\n<p>Customers must present the email confirmation with the discount code at the time of check-in at the clinic. (*) The email presented after the service has been used will not be valid for the discount.\r\n</p>\r\n</li>\r\n<li>\r\n<p>The discount does not apply to medication, vaccines, or medical supplies accompanying the service.\r\n</p>\r\n</li>\r\n<li>\r\n<p>Skin care services are only available at the ?inh Tiên Hoàng - District 1 branch.\r\n</p>\r\n</li>\r\n<li>\r\n<p>All discount levels apply to listed prices and cannot be combined with other promotional programs.\r\n</p>\r\n</li>\r\n<li>\r\n<p>The discount is valid for 60 days from the date of receiving the email.\r\n</p>\r\n</li>\r\n<li>\r\n<p>You can request the transfer of this preferential policy to your relatives. Please submit the transfer request for the use of the benefit according to the instructions in the confirmation email.\r\n</p>\r\n</li>\r\n</ul>\r\n<p><strong>Please fill in the information below to receive your appreciation gift from us.</strong>\r\n</p>",
+                    "additional_info_vn": "p><strong>Chúng tôi vô cùng biết ơn thời gian quý giá của bạn dành cho chúng tôi để thực hiện khảo sát này.</strong>\r\n</p>\r\n<p><strong>Victoria Healthcare xin gửi bạn phần quà tri ân vì sự đóng góp của bạn dành cho dịch vụ của chúng tôi.</strong>\r\n</p>\r\n<p>Bạn sẽ nhận được 1 món quà lưu niệm tùy chọn tại phòng khám VÀ chọn 1 trong các ưu đãi kèm theo cho lần thăm khám kế tiếp:\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Tặng 300.000 Vnd Phí khám bác sĩ (Đối với chuyên khoa Nhi chỉ áp dụng mức ưu đãi 10% trên tổng bill dịch vụ)</span>\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Hoặc giảm 10% tổng hoá đơn dịch vụ</span>\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Hoặc giảm 20% chi phí dịch vụ và 10% chi phí thủ thuật kèm theo gói khám Tổng quát.</span>\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Hoặc giảm 20% các dịch vụ chẩn đoán hình ảnh (Siêu âm/ Xquang/ Đo loãng xương/Chụp nhũ ảnh/ Chụp CT cắt lớp) nếu phát sinh cùng phí khám bác sĩ</span>\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Hoặc giảm 20% dịch vụ kế hoạch hoá gia đình ở nữ, áp dụng cho các phương pháp phòng tránh thai: đặt/ tháo vòng, cấy/tháo que tránh thai…</span>\r\n</p>\r\n<p><span style=\"color: #ff0000;\">- Hoặc giảm 25% tổng bill dịch vụ chăm sóc da (Áp dụng trên giá niêm yết tất các dịch vụ điều trị bệnh lý Da liễu – liệu trình chăm sóc trẻ hoá, massage da…)</span>\r\n</p>\r\n<p><strong><u>Điều kiện áp dụng:</u></strong>\r\n</p>\r\n<ul>\r\n<li>\r\n<p>Khách hàng xuất trình nội dung email xác nhận có mã ưu đãi tại thời điểm check-in tại phòng khám. (*) <strong>Email xuất trình sau khi đã sử dụng dịch vụ sẽ không có hiệu lực áp dụng ưu đãi.</strong>\r\n</p>\r\n</li>\r\n<li>\r\n<p>Ưu đãi không áp dụng cho chi phí thuốc, vaccine, vật tư y tế kèm theo dịch vụ\r\n</p>\r\n</li>\r\n<li>\r\n<p>Dịch vụ chăm sóc da chỉ có tại chi nhánh Đinh Tiên Hoàng - Q1\r\n</p>\r\n</li>\r\n<li>\r\n<p>Tất cả các mức ưu đãi áp dụng trên giá niêm yết và không cộng gộp với các chương trình ưu đãi khác.\r\n</p>\r\n</li>\r\n<li>\r\n<p>Ưu đãi có giá trị <strong>60 ngày</strong> kể từ ngày nhận được email.\r\n</p>\r\n</li>\r\n<li>\r\n<p>Bạn có thể yêu cầu chuyển nhượng chính sách ưu đãi này cho người thân. Vui lòng gửi yêu cầu chuyển nhượng quyền sử dụng ưu đãi theo hướng dẫn trong email xác nhận.\r\n</p>\r\n</li>\r\n</ul>\r\n<p><strong>Hãy điền đầy đủ thông tin dưới đây để nhận bộ quà tri ân từ chúng tôi.</strong>\r\n</p>"
+                }
+            ]
+        },
+        {
+            "category_id": "8",
+            "category_name_en": "APPRECIATION GIFT INFORMATION",
+            "category_name_vn": "THÔNG TIN NHẬN QUÀ TRI ÂN",
+            "category_head_en": "Please fill in the information below to receive your appreciation gift from us.",
+            "category_head_vn": "Hãy điền đầy đủ thông tin dưới đây để nhận bộ quà tri ân từ chúng tôi.",
+            "questions": [
+                {
+                    "id": "151",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Patient number:",
+                    "question_vn": "Mã số bệnh nhân:",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "152",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Company code (If for corporate health check):",
+                    "question_vn": "Mã Công ty (Nếu khám sức khoẻ doanh nghiệp):",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "153",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Clinic branch you reviewed:",
+                    "question_vn": "Chi nhánh phòng khám bạn đang cho đánh giá:",
+                    "question_type": "select",
+                    "options": [
+                        "—Please choose an option—",
+                        "37-39 Luong Dinh Cua, An Khanh Ward, Thu Duc City",
+                        "20-20Bis-22 Dinh Tien Hoang, Da Kao Ward, District 1",
+                        "135A Nguyen Van Troi, Ward 11, Phu Nhuan District",
+                        "1056 Nguyen Van Linh, Sky Garden 1, Phu My Hung, District 7"
+                    ],
+                    "options_vn": [
+                        "—Vui lòng chọn một tùy chọn—",
+                        "37-39 Lương Định Của, P. An Khánh, TP Thủ Đức",
+                        "20-20Bis-22 Đinh Tiên Hoàng, P. Đa Kao, Quận 1",
+                        "135A Nguyễn Văn Trỗi, Phường 11, Q. Phú Nhuận",
+                        "1056 Nguyễn Văn Linh, Sky Garden 1, Phú Mỹ Hưng, Quận 7"
+                    ],
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "154",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Full name *:",
+                    "question_vn": "Họ và tên *:",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "155",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Email address *:",
+                    "question_vn": "Địa chỉ Email *:",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                },
+                {
+                    "id": "156",
+                    "question_parent_id": "0",
+                    "form_id": "2",
+                    "category_id": "8",
+                    "question_en": "Phone number *:",
+                    "question_vn": "Số điện thoại *:",
+                    "question_type": "text",
+                    "options": null,
+                    "options_vn": null,
+                    "additional_info": null,
+                    "additional_info_vn": null
+                }
+            ]
+        }
+    ],
+    "completed": 0
+}

@@ -853,7 +853,7 @@
                     "category_id": "8",
                     "question_en": "Clinic branch you reviewed:",
                     "question_vn": "Chi nhánh phòng khám bạn đang cho đánh giá:",
-                    "question_type": "text",
+                    "question_type": "select",
                     "options": [
                         "—Please choose an option—",
                         "37-39 Luong Dinh Cua, An Khanh Ward, Thu Duc City",

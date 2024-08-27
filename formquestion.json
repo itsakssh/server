@@ -709,7 +709,7 @@
                     "category_id": "6",
                     "question_en": "If you are using the VIC CARE app on your smartphone or through the online portal at http://viccare.victoriavn.com, please select 'YES' to share your experience with VIC CARE; otherwise, select 'NO' to skip this question.",
                     "question_vn": "Nếu bạn đang sử dụng ứng dụng VIC CARE bằng điện thoại thông minh hoặc qua cổng trực tuyến tại: http://viccare.victoriavn.com , vui lòng chọn 'CÓ' để chia sẻ với chúng tôi trải nghiệm của bạn về tiện ích này, ngược lại chọn 'KHÔNG' để bỏ qua câu hỏi này.",
-                    "question_type": "radio",
+                    "question_type": "select",
                       "options": [
                         "Yes",
                         "No"

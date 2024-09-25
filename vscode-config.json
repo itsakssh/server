@@ -1,0 +1,188 @@
+{
+    "explorer.confirmDelete": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.pdf": "default"
+    },
+    "git.suggestSmartCommit": false,
+    "git.ignoreMissingGitWarning": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "terminal.integrated.tabs.enabled": true,
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "github-enterprise.uri": "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=d6dcd110398551fedcfa&state=b1f56dc1-b2d7-4ec9-a3ee-7d0a56c9a967",
+    "tabnine.experimentalAutoImports": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#121212",
+        "editor.background": "#111111",
+        "tab.activeBackground": "#101010",
+        "tab.inactiveForeground": "#838383",
+        "tab.inactiveBackground": "#121212",
+        "sideBar.background": "#111111",
+        "panel.background": "#111111",
+        "panel.border": "#2c2c2c",
+        "titleBar.activeBackground": "#121212",
+        "statusBar.background": "#111111"
+    },
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.cursorWidth": 5,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 4,
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+    "workbench.settings.openDefaultSettings": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "search.useReplacePreview": false,
+    "editor.suggest.preview": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.graph.experimental.minimap.enabled": true,
+    "path-intellisense.showHiddenFiles": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "cmake.configureOnOpen": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.env.windows": {},
+    "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+        "live-server-extension": true,
+        "live-preview-extension": true
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily",
+        "editor.fontSize"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.localHistory.maxFileSize": 260,
+    "screencastMode.fontSize": 60,
+    "chat.editor.fontSize": 15,
+    "terminal.integrated.fontFamily": "Fira Code, 'Courier New', monospace",
+    "console-ninja.featureSet": "Community",
+    "livePreview.customExternalBrowser": "Chrome",
+    "git.autofetch": true,
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.fontWeight": "normal",
+    "workbench.editor.revealIfOpen": false,
+    "pieces.setCopilotLocation": true,
+    "workbench.startupEditor": "none",
+    "css.lint.unknownAtRules": "ignore",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "gitlens.blame.ignoreWhitespace": true,
+    "editor.smoothScrolling": true,
+    "editor.fontFamily": "Fira Code, 'Courier New', monospace",
+    "window.title": "${activeEditorShort}${separator}${rootName}",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Shell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "gitlens.graph.minimap.enabled": false,
+    "terminal.integrated.env.linux": {},
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "extensions.ignoreRecommendations": true,
+    "git.confirmSync": false,
+    "console-ninja.warnOnNoToolsDetected": false,
+    "terminal.integrated.tabs.defaultIcon": "terminal-bash",
+    "files.autoSaveDelay": 10,
+    "workbench.activityBar.location": "top",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "focus:command"
+    ],
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmPasteNative": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "explorer.compactFolders": false,
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "docker-desktop"
+    ],
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "editor.fastScrollSensitivity": 10,
+    "editor.scrollbar.verticalScrollbarSize": 5,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "afterDelay"
+}

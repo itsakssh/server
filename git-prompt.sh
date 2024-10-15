@@ -1,3 +1,5 @@
+# C:\Program Files\Git\etc\profile.d
+
 if test -f /etc/profile.d/git-sdk.sh
 then
 	TITLEPREFIX=SDK-${MSYSTEM#MINGW}
@@ -14,7 +16,7 @@ else
 	PS1="$PS1"'\[\033[32m\]'       # change to green
 	PS1="$PS1"'\u@\h '             # user@host<space>
 	PS1="$PS1"'\[\033[35m\]'       # change to purple
-	PS1="$PS1"'$MSYSTEM '          # show MSYSTEM
+	PS1="$PS1"'@dev '          # show MSYSTEM
 	PS1="$PS1"'\[\033[33m\]'       # change to brownish yellow
 	PS1="$PS1"'\w'                 # current working directory
 	if test -z "$WINELOADERNOEXEC"
